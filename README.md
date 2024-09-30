@@ -8,3 +8,5 @@
 - Stage L3
 - TER M1
 - stage M1
+
+[test](/pages/test)
