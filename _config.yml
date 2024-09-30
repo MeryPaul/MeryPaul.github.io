@@ -3,3 +3,7 @@ title: Mery Paul
 #description: texte sous l'image
 show_downloads: false
 theme: jekyll-theme-minimal
+
+layout: page
+title: "test"
+permalink: MeryPaul.github.io/pages
