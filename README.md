@@ -1,6 +1,7 @@
 # Student M2 MANU
 
 ### Education
+[test](/pages/test.md)
 
 ### Projects and internship
 - TER L1
@@ -9,4 +10,3 @@
 - TER M1
 - stage M1
 
-[test](/pages/test.md)
