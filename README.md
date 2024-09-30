@@ -9,4 +9,4 @@
 - TER M1
 - stage M1
 
-[test](/pages/test)
+[test](/pages/test.md)
