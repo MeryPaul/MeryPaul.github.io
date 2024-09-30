@@ -1,6 +1,3 @@
-layout: page
-title: "test"
-permalink: MeryPaul.github.io/pages
+title: test
 
 ceci est un test 
-
