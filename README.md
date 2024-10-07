@@ -1,5 +1,3 @@
-# Student M2 MANU
-
 ### Mon CV complet
 [CV](asset/PDF/CV_Paul_Méry.pdf)
 ### Parcours
