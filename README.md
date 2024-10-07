@@ -1,5 +1,5 @@
 ### Mon CV complet
-[CV](asset/PDF/CV_Paul_Méry.pdf)
+[CV](asset/PDF/CV_Paul_Méry.pdf)(_Dernière mise a jour Janvier 2024_)
 ### Parcours
 - Baccalaureat scientifique (_2019_)
 - Licence "[Parcours spécial maths](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/licence-parcours-speciaux)" , Université Paul sabatier Toulouse (_2019-2023_)
