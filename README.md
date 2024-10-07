@@ -1,7 +1,7 @@
 # Student M2 MANU
 
 ### Mon CV complet
-[CV](https://MeryPaul.github.io//asset/PDF/CV_Paul_Méry.html)
+[CV](asset/PDF/CV_Paul_Méry)
 ### Parcours
 - Baccalaureat scientifique (_2019_)
 - Licence "[Parcours spécial maths](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/licence-parcours-speciaux)" , Université Paul sabatier Toulouse (_2019-2023_)
