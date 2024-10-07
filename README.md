@@ -6,7 +6,7 @@
 - Master "[MANU](https://formations.umontpellier.fr/fr/formations/master-XB/master-mathematiques-ME157/modelisation-et-analyse-numerique-manu-PR493.html)" , Université de montpellier
 
 ### Projets et stage
-- TER L1 : [Nombre Irrationnel et fractions continue](https://MeryPaul.github.io/pages/test.html) 
+- TER L1 : [Nombre Irrationnel et fractions continue](https://MeryPaul.github.io/pages/Nombre_Irrationnel_et_fraction_continue.html) 
 - TER L2 : Introduction a la modélisation 
 - Stage L3 : Introduction a théorie des groupe géométrique 
 - TER M1 : Problème de Stefan 1D
