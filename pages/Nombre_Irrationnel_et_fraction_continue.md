@@ -1,4 +1,5 @@
-Projet supervisé par Jasmin Raissy de l’Institut de mathématique de Toulouse
+_Projet supervisé par Jasmin Raissy de l’Institut de mathématique de Toulouse_
+
 Durant ce projet nous avons étudié a relation entre les fractions continues et les nombres irrationnels,
 et nous avons vu la démonstration de la convergence des coefficient. Dans une seconde partie de ce
 projet nous avons vu, grâce aux fractions continue, le lien entre la suite de Fibonacci et le nombre d'or,
