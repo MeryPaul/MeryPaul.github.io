@@ -1,1 +1,3 @@
-_Projet encadré par Hélène Mathis _
+_Projet supervisé par Hélène Mathis de l'institut Alexander Grothendieck de Montpellier_
+
+a remplir 
