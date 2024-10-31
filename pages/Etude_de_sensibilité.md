@@ -1,3 +1,3 @@
 _Stage encadré par Nicolas Seguin , Directeur de recherche, Antenne Inria de l'Université de Montpellier_
 
-a remplir 
+Ce stage n'aviat pas de but établi au départ et était plutôt une introduction au travail de recherche. On est parti du modèle de Lighthill-Witham-Richards, pour lequel j'ai dévellopé un algorithme de résolution en utilisant une méthode de volume finis. Une fois que ce code a été écrit et testé sur une condition de départ régulière on a ajouté un bruit aléatoire sur la condition initiale ou dans le flux de la méthode et on a utilisé une méthode de Monte-Carlo pour obtenir les résultats. On a ensuite cherché a traquer le déplacement du front avec les conditions initiales bruité et finalement on a cherché a quantifier le caratère régularisant de l'équation. Ce dernier point n'a pas pu être fini lors du stage.  
