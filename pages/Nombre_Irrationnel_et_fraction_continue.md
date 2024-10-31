@@ -6,4 +6,4 @@ projet nous avons vu, grâce aux fractions continue, le lien entre la suite de F
 ainsi que certaine de leurs apparition dans la nature, comme par exemple dans la disposition
 des feuilles de certaines fleurs.
 
-ajouter illustration et rapport 
+ 
