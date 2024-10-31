@@ -1,3 +1,3 @@
 _Projet supervisé par Hélène Mathis de l'institut Alexander Grothendieck de Montpellier_
 
-a remplir 
+Ce Travail De recherche encadré avait pour but d'étudier un problème de Stefan en une dimension a l'aide d'une méthode ed différence finie.  Pour cela nous nous somme basé sur A FINITE DIFFERENCE METHOD FOR A STEFAN PROBLEM de T. C. SMITH .Ce problème modélise la fonte d'un solide, par exemple la fonte d'un glaçon. Le principal problème auquel nous avons été confronté est d'avoir a travaillé sur un domaine qui évolue au cours du temps puisque l'interface entre les deux domaine se déplaçait au cours du temps.
