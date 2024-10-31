@@ -1,8 +1,3 @@
-layout: page
-title: "Etude d'un modèle épidémiologique"
-permalink: MeryPaul.github.io/pages/Etude_d'un_modèle_épidémiologique.md
-
-
 _Projet supervisé par Christine Lauzeral du Laboratoire Evolution et Diversité Biologique 
 de Toulouse_
 
