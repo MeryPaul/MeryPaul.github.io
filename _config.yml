@@ -4,9 +4,9 @@ description: paul.mery@etu.umontpellier.fr
 show_downloads: false
 theme: jekyll-theme-minimal
 
-layout: page
-title: "Etude d'un modèle épidémiologique"
-permalink: MeryPaul.github.io/pages/Etude_d'un_modèle_épidémiologique.md
+#layout: page
+#title: "Etude d'un modèle épidémiologique"
+#permalink: MeryPaul.github.io/pages/Etude_d'un_modèle_épidémiologique.md
 
 #layout: page
 #title: "Etude de sensibilité"
