@@ -5,3 +5,7 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 
+layout: page
+title: "TEST"
+permalink: /URL-PATH
+
