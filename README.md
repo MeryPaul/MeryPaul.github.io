@@ -8,7 +8,7 @@
 ### Projets et stages
 - TER L1 : [Nombre Irrationnel et fractions continue](https://MeryPaul.github.io/pages/Nombre_Irrationnel_et_fraction_continue.html) 
 - TER L2 : [Etude d'un modèle épidémiologique](https://MeryPaul.github.io/pages/Etude_d'un_modèle_épidémiologique.html)
-- Stage L3 : [Théorie des géométrique groupe](https://MeryPaul.github.io/pages/théorie_géométrique_des_groupes.html) 
+- Stage L3 : [Théorie géométrique des groupe](https://MeryPaul.github.io/pages/théorie_géométrique_des_groupes.html) 
 - TER M1 : [Problème de Stefan 1D](https://MeryPaul.github.io/pages/Problème_de_Stefan.html)
 - Stage M1 : [Etude de la sensibilité](https://MeryPaul.github.io/pages/Etude_de_sensibilité.html)
 
